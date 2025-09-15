@@ -1,7 +1,9 @@
 # CS5760-NLP-Homework_1
 Homework 1- Natural Language processing(Regex, Tokenization, BEP, Edit distance)
 
-Author: <Rakesh boragani(700763043)>
+Author: Rakesh Boragani
+Student ID :700763043
+CRN:13312
 
 ## Files
 - `homework.py` — single Python script implementing Q1–Q4, with comments and example output.
