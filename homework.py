@@ -1,7 +1,8 @@
 
 """
 Homework 1 — CS5760 Natural Language Processing
-Author: Rakesh Boragani
+Author: Rakesh Boragani 
+student id 700763043
 Instructions: Install spaCy and the small English model before running parts that use spaCy:
     pip install spacy
     python -m spacy download en_core_web_sm
